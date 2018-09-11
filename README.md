@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # Sample Website
+=======
+~/repos/website/README.md
+ # Sample Website
+>>>>>>> 1603dabd811b5e9e63ae32e0bd77e56f19341ced
 
 This is a sample website made as part of [*Learn Enough™ Git to Be
 Dangerous*](http://learnenough.com/git-tutorial), possibly the greatest
